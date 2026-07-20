@@ -5,7 +5,5 @@
 <p>Edited with nano from terminal</p>
 <p>AWS CodeConnection is live - my pipeline foundation is ready!</p>
 <p>Feature: deployed from develop branch</p>
-
-<p>Testing connectivity to AWS CodeBuild</p>
 </body>
 </html>

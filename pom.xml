@@ -17,5 +17,12 @@
   </dependencies>
   <build>
     <finalName>nextwork-web-project</finalName>
-  </build>
+  </build>  
+  <distributionManagement>
+    <repository>
+      <id>nextwork-nextwork-devops-cicd</id>
+      <name>nextwork-nextwork-devops-cicd</name>
+      <url>https://nextwork-465630416272.d.codeartifact.us-east-1.amazonaws.com/maven/nextwork-devops-cicd/</url>
+    </repository>
+  </distributionManagement>    
 </project>

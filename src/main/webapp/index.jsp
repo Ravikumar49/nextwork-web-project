@@ -6,6 +6,6 @@
 <p>AWS CodeConnection is live - my pipeline foundation is ready!</p>
 <p>Feature: deployed from develop branch</p>
 
-<p>Testing connectivity to AWS CodeBuild-second turn</p>
+<p>Testing connectivity to AWS CodeBuild-third turn</p>
 </body>
 </html>

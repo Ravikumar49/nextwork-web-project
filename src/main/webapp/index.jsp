@@ -7,5 +7,7 @@
 <p>Feature: deployed from develop branch</p>
 
 <p>Testing Amazon SNS</p>
+
+<p>Deployed automatically by CodePipeline!</p>
 </body>
 </html>

@@ -9,5 +9,7 @@
 <p>Testing Amazon SNS</p>
 
 <p>Deployed automatically by CodePipeline!</p>
+
+<p>Approved for production!</p>
 </body>
 </html>
